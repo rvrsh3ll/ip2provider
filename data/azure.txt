@@ -18673,6 +18673,7 @@
 20.153.58.0/24 azure AzureStorage eastus3
 57.150.249.0/24 azure AzureStorage eastus3
 57.163.32.0/23 azure AzureStorage eastus3
+57.163.70.0/23 azure AzureStorage eastus3
 135.130.0.0/23 azure AzureStorage eastus3
 135.130.2.0/24 azure AzureStorage eastus3
 135.130.219.0/24 azure AzureStorage eastus3
