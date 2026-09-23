@@ -50,6 +50,7 @@
 45.79.224.0/19 linode unknown unknown
 45.79.224.0/21 linode unknown unknown
 45.79.232.0/24 linode unknown unknown
+45.79.234.0/24 linode unknown unknown
 45.79.236.0/22 linode unknown unknown
 45.79.236.0/24 linode unknown unknown
 45.79.237.0/24 linode unknown unknown
